@@ -1,4 +1,7 @@
 Math_tasks
 
+
 домашние задания по курсу математики для Data sciense
-scipy, numpy, matplotlib, pca
+
+
+scipy, numpy,  pca, matplotlib
